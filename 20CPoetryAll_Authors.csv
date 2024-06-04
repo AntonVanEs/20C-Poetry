@@ -1,4 +1,4 @@
-id,label,author,lastname,firstname,year,year_adj,decade_birth,decade_adj,generation,gender,ethnicity,nationality,movement,movement2,poets.org,movement_note,lion.movement.1,lion.movement.2,lion.movement.3,lion.period.1,lion.period.2,lion.period.3,poets.org.1,poets.org.2,poets.org.3,poetryfoundation
+_id,_label,_author,_lastname,_firstname,_year,_year_adj,_decade_birth,_decade_adj,_generation,_gender,_ethnicity,_nationality,_movement,_movement2,_poets.org,_movement_note,_lion.movement.1,_lion.movement.2,_lion.movement.3,_lion.period.1,_lion.period.2,_lion.period.3,_poets.org.1,_poets.org.2,_poets.org.3,_poetryfoundation
 1,Adams,AdamsArthurHenry,Adams,ArthurHenry,1872,1907,1870,1900,,M,,NewZealander/Oceanian,CasualsClub,,,,,,,,,,,,,
 2,Agoos,AgoosJulie,Agoos,Julie,1956,1991,1950,1990,,F,,American/NorthAmerican,AmericanConfessional,Postwar,,,,,,,,,,,,
 3,Akhmatova,AkhmatovaAnnaAndreevna,Akhmatova,AnnaAndreevna,1889,1924,1880,1920,,F,,Russian/European,Modernism,Inter-War,,,,,,,,,,,,
